@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taejin0323.github.io/"/>
-  <updated>2019-01-23T07:48:20.737Z</updated>
+  <updated>2019-01-23T08:09:48.810Z</updated>
   <id>http://taejin0323.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://taejin0323.github.io/2019/01/23/markdown-plugin/"/>
     <id>http://taejin0323.github.io/2019/01/23/markdown-plugin/</id>
     <published>2019-01-23T07:32:24.000Z</published>
-    <updated>2019-01-23T07:48:20.737Z</updated>
+    <updated>2019-01-23T08:09:48.810Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Related-Posts"><a href="#Related-Posts" class="headerlink" title="Related Posts"></a>Related Posts</h3>]]></content>
     
@@ -43,14 +43,18 @@
     
       <category term="plugins" scheme="http://taejin0323.github.io/tags/plugins/"/>
     
+      <category term="헥소" scheme="http://taejin0323.github.io/tags/%ED%97%A5%EC%86%8C/"/>
+    
+      <category term="플러그인" scheme="http://taejin0323.github.io/tags/%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/"/>
+    
   </entry>
   
   <entry>
-    <title>spring</title>
+    <title>Spring 개요</title>
     <link href="http://taejin0323.github.io/2019/01/22/spring/"/>
     <id>http://taejin0323.github.io/2019/01/22/spring/</id>
     <published>2019-01-22T08:30:00.000Z</published>
-    <updated>2019-01-23T07:30:50.661Z</updated>
+    <updated>2019-01-23T08:09:35.967Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>가장 좋은 문서는 spring.io 공식 홈페이지에서 제공하는 documents 입니다. 개인적으로 공부하면서 작성하는 문서라 틀린 부분이 있을 수 있으니, 반드시 공식 문서를 참조하시기 바랍니다.</p><blockquote><p>URL : <a href="https://spring.io" target="_blank" rel="noopener">https://spring.io</a><br>소스코드 : <a href="https://github.com/spring-projects" target="_blank" rel="noopener">https://github.com/spring-projects</a><br>가이드 : <a href="https://spring.io/guides" target="_blank" rel="noopener">https://spring.io/guides</a></p></blockquote></blockquote><h1 id="스프링"><a href="#스프링" class="headerlink" title="스프링"></a>스프링</h1><p>:book: 목차 :book:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">* 뒤에 내용을 추가하면서 목차도 추가!</span><br></pre></td></tr></table></figure><ol><li><a href="#1.-스프링(Spring">스프링(Spring)</a>)</li></ol><hr><h3 id="1-스프링-Spring"><a href="#1-스프링-Spring" class="headerlink" title="1. 스프링(Spring)"></a>1. 스프링(Spring)</h3><p>공식 홈페이지 첫 화면을 보면 ==Spring : the source for modern java== 라고 적혀있다.</p><p>이 문장만으로는 이해하기 어려워서 구글에 검색을 해도 <strong>스프링</strong>이란 한 문장으로 이런 것이다 라고 정의내리기 어려운 것 같다.</p><p>우리나라에서는 스프링하면 스프링 프레임워크(Spring framework)를 주로 이야기하지만, 스프링은</p><div style="border-style:dashed; color:grey; text-align:center"><br>자바 엔터프라이즈 개발을 편하게 해주는 오픈소스 경량급 애플리케이션 프레임워크<br><br></div>]]></content>
     
@@ -73,6 +77,10 @@
       <category term="spring" scheme="http://taejin0323.github.io/tags/spring/"/>
     
       <category term="spring framework" scheme="http://taejin0323.github.io/tags/spring-framework/"/>
+    
+      <category term="스프링" scheme="http://taejin0323.github.io/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"/>
+    
+      <category term="스프링 프레임워크" scheme="http://taejin0323.github.io/tags/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/"/>
     
   </entry>
   
