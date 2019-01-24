@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taejin0323.github.io/"/>
-  <updated>2019-01-23T08:29:21.087Z</updated>
+  <updated>2019-01-24T09:08:25.927Z</updated>
   <id>http://taejin0323.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://taejin0323.github.io/2019/01/23/blog-issues/"/>
     <id>http://taejin0323.github.io/2019/01/23/blog-issues/</id>
     <published>2019-01-23T08:13:45.000Z</published>
-    <updated>2019-01-23T08:29:21.087Z</updated>
+    <updated>2019-01-24T09:08:25.927Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>그냥 두서없이 블로그 만들면서 들었던 생각들을 작성</p></blockquote><p>19.01.23</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">블로그 생성한지 일주일이 지나가고 있지만 아직 모르는 것이 너무 많다ㅠ</span><br><span class="line">테마를 끌어와서 내 취향대로 설정하고 싶은데 마음대로 잘 안되네...</span><br><span class="line"></span><br><span class="line">아직까지 마크다운 사용에도 익숙하지 않고..</span><br><span class="line">저번 주까지 하루패드 에디터를 사용해서 작성했지만 에디터에서 보여지는 결과물과 Github page에서 출력되는 결과물이 달라서 Typora 에디터로 바꿔봤다(하루패드는 화면이 분할되서 좋았고, Typora는 UI가 이쁘다)</span><br><span class="line">일단은 plugin 기능들까지 사용하면서 최대한 나만의 개발환경을 만들어 보려고 노력중이다...</span><br><span class="line"></span><br><span class="line">내일까지 제출해야 하는 제안서에 시간을 많이 할애하고 있는 것도 있지만,</span><br><span class="line">포스팅 환경이 아직 잘 구성되지 못해서 업로드가 더딘 것 같다...</span><br><span class="line"></span><br><span class="line">적어도 개강 전까지 최대한 빨리 적응해서 능숙해 졌으면 좋겠다</span><br></pre></td></tr></table></figure><p><br><br><br></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>그냥 두서없이 블로그 만들면서 들었던 생각들을 작성</p></blockquote><p>19.01.22</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">블로그에 disqus를 사용해서 댓글 기능을 추가했다.</span><br><span class="line"></span><br><span class="line">자세히는 모르지만 최근 패치 이후 언어 선택에 한글이 빠져있는 문제점이 생겼는데</span><br><span class="line">구글링 해보니 크롬 개발자 모드로 꼼수 부려서 한글이 나오게 하는 방법이 있어서 그렇게 적용해 놓았다.</span><br></pre></td></tr></table></figure><p><br><br></p><p>19.01.23</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">블로그 생성한지 일주일이 지나가고 있지만 아직 모르는 것이 너무 많다ㅠ</span><br><span class="line">테마를 끌어와서 내 취향대로 설정하고 싶은데 마음대로 잘 안되네...</span><br><span class="line"></span><br><span class="line">아직까지 마크다운 사용에도 익숙하지 않고..</span><br><span class="line">저번 주까지 하루패드 에디터를 사용해서 작성했지만 에디터에서 보여지는 결과물과 Github page에서 출력되는 결과물이 달라서 Typora 에디터로 바꿔봤다(하루패드는 화면이 분할되서 좋았고, Typora는 UI가 이쁘다)</span><br><span class="line">일단은 plugin 기능들까지 사용하면서 최대한 나만의 개발환경을 만들어 보려고 노력중이다...</span><br><span class="line"></span><br><span class="line">내일까지 제출해야 하는 제안서에 시간을 많이 할애하고 있는 것도 있지만,</span><br><span class="line">포스팅 환경이 아직 잘 구성되지 못해서 업로드가 더딘 것 같다...</span><br><span class="line"></span><br><span class="line">적어도 개강 전까지 최대한 빨리 적응해서 능숙해 졌으면 좋겠다</span><br></pre></td></tr></table></figure><p><br><br></p><p>19.01.24</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">오늘은 알고리즘 공부했음... 언젠가 이것도 정리해서 올릴 수 있기를...</span><br><span class="line"></span><br><span class="line">글도 얼른 정리해야하는데...</span><br><span class="line">hexo에서 &apos;== ==&apos;, &apos;++ ++&apos; 등 하이라이트랑 밋줄이 표시 안되는 문제가 있어서 플러그인 관련해서 조금 살펴보고 있다...</span><br><span class="line">Markdown 에디터로 작성한 글이랑 서버에 올린 글이랑 다르니까 영 찝찝해서 아직 이것 저것 공부하는 중이다...</span><br></pre></td></tr></table></figure><p><br><br><br></p>]]></content>
     
     <summary type="html">
     
@@ -32,7 +32,7 @@
         &lt;blockquote&gt;
 &lt;p&gt;그냥 두서없이 블로그 만들면서 들었던 생각들을 작성&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;19.01.23&lt;/p&gt;
+&lt;p&gt;19.01.22&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;
       
     
