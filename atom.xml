@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taejin0323.github.io/"/>
-  <updated>2019-02-04T13:37:29.471Z</updated>
+  <updated>2019-02-05T11:20:52.911Z</updated>
   <id>http://taejin0323.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>운영체제 - Overview</title>
+    <link href="http://taejin0323.github.io/2019/02/05/os-overview/"/>
+    <id>http://taejin0323.github.io/2019/02/05/os-overview/</id>
+    <published>2019-02-05T10:29:30.000Z</published>
+    <updated>2019-02-05T11:20:52.911Z</updated>
+    
+    <content type="html"><![CDATA[<p>📖 <strong>목차</strong> 📖</p><ol><li><a href="#%EC%86%8C%EA%B0%9C">소개</a><br>1.1 <a href="#1.1-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C">운영체제</a><br>1.2 <a href="#1.2-%EB%A9%94%EC%9D%B8%ED%94%84%EB%A0%88%EC%9E%84-%EC%8B%9C%EC%8A%A4%ED%85%9C">메인프레임 시스템</a><br>1.3 <a href="#1.3-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-%EC%8B%9C%EC%8A%A4%ED%85%9C">데스크탑 시스템</a></li></ol><hr><h1 id="1-소개"><a class="markdownIt-Anchor" href="#1-소개"></a> 1. 소개</h1><h2 id="11-운영체제"><a class="markdownIt-Anchor" href="#11-운영체제"></a> 1.1 운영체제</h2><img src="https://www.tutorialspoint.com/operating_system/images/conceptual_view.jpg"><img style="float:right;" src="https://upload.wikimedia.org/wikipedia/ko/thumb/a/a3/Operating_system_placement_kor.png/200px-Operating_system_placement_kor.png"><ul><li><p>운영체제(Operating System)란?</p><p>– 컴퓨터 하드웨어를 관리하는 프로그램<br>– 응용 프로그램의 토대를 제공해주는 프로그램<br>– <strong><span style="color:orange;">사용자</span>와 <span style="color:red;">하드웨어</span> 사이에 중간 매개체 역할</strong>을 해주는 프로그램</p></li><li><p>운영체제 범위에 대한 정의<br>정의 1) 운영체제를 구입하였을 때 포함되어 있는 모든 것<br><u>정의 2) 항상 수행되고 있는 유일한 프로그램(보통 <strong>Kernel</strong> 이라고 한다)</u><br>✅ 대체로 2번 째 정의를 사용함</p></li></ul><p>❗️ 그림에서 처럼 운영체제는 컴퓨터의 사용자와 컴퓨터 하드웨어 사이에 있기 때문에 운영체제를 바라보는 관점도 두 가지로 분류할 수 있습니다.</p><h3 id="111-span-stylecolororange사용자-관점span"><a class="markdownIt-Anchor" href="#111-span-stylecolororange사용자-관점span"></a> 1.1.1 <span style="color:orange;">사용자 관점</span></h3><ul><li><strong>컴퓨터의 용도</strong> 에 따라 OS의 설계 방향이 결정 됩니다.<ul><li>개인용 컴퓨터</li><li>메인프레임, 미니컴퓨터</li><li>워크스테이션</li><li>휴대용 컴퓨터</li></ul></li></ul><h3 id="112-span-stylecolorred시스템-관점span"><a class="markdownIt-Anchor" href="#112-span-stylecolorred시스템-관점span"></a> 1.1.2 <span style="color:red;">시스템 관점</span></h3><ul><li><strong>자원 할당자</strong><br>컴퓨터 자원(CPU 시간, 메모리 공간, 파일 저장 공간, 입출력 장치)의 할당은 공정해야 하며 효율적으로 이루어져야 합니다.</li><li><strong>제어 프로그램</strong><br>사용자 프로그램의 실행을 감독하여 오류와 컴퓨터 오용을 방지하고 입출력 장치의 제어와 동작을 관리 합니다.</li></ul><h3 id="113-운영체제의-목표"><a class="markdownIt-Anchor" href="#113-운영체제의-목표"></a> 1.1.3 운영체제의 목표</h3><ul><li><p><span style="color:orange;">사용자</span>에게 편리성 제공</p></li><li><p><span style="color:red;">컴퓨터 시스템</span>의 효율적 운영</p><p>:octocat: <strong>사용자에게 컴퓨터에서 프로그램을 효율적이고 편리하게 실행할 수 있는 환경을 제공</strong> 하는 것 입니다!!</p></li></ul><h2 id="12-메인프레임-시스템"><a class="markdownIt-Anchor" href="#12-메인프레임-시스템"></a> 1.2 메인프레임 시스템</h2><h2 id="13-데스크탑-시스템"><a class="markdownIt-Anchor" href="#13-데스크탑-시스템"></a> 1.3 데스크탑 시스템</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;📖 &lt;strong&gt;목차&lt;/strong&gt; 📖&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;#%EC%86%8C%EA%B0%9C&quot;&gt;소개&lt;/a&gt;&lt;br&gt;
+1.1 &lt;a href=&quot;#1.1-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C&quot;&gt;운
+      
+    
+    </summary>
+    
+      <category term="OS" scheme="http://taejin0323.github.io/categories/OS/"/>
+    
+    
+      <category term="운영체제" scheme="http://taejin0323.github.io/tags/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/"/>
+    
+      <category term="OS" scheme="http://taejin0323.github.io/tags/OS/"/>
+    
+  </entry>
   
   <entry>
     <title>스프링 - POJO</title>
