@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://taejin0323.github.io/2019/02/11/spring-IoC/</loc>
+    
+    <lastmod>2019-02-11T09:19:24.191Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://taejin0323.github.io/2019/02/04/spring-pojo/</loc>
     
-    <lastmod>2019-02-11T07:09:35.104Z</lastmod>
+    <lastmod>2019-02-11T08:07:32.592Z</lastmod>
     
   </url>
   
