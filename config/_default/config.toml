@@ -6,7 +6,7 @@ defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
-copyright = "&copy;{year}, All Rights Reserved"
+copyright = "&copy;{year} taejin0323, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
 paginate = 13

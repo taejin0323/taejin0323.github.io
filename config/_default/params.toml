@@ -11,10 +11,10 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 
 enableTocSwitch = true
 enableLandingBackground = true
-enableSearch = true
+enableSearch = true             # 검색엔진 사용
 enableSearchHighlight = true
 enableLangChange = false        # 언어 선택 비활성화
-enableDarkMode = true
+enableDarkMode = true           # 다크모드 사용
 enableBreadcrumb = true
 enableBlogBreadcrumb = true
 enableEditBtn = false
@@ -32,7 +32,7 @@ taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 github = "https://github.com/taejin0323/taejin0323.github.io"
 
 # comment
-enableComment = false
+enableComment = true
 disqus_shortname = ""
 commento = false
 
@@ -43,8 +43,8 @@ commento = false
   clientSecret = ""       # Your client secret
 
 [utterances]       # https://utteranc.es/
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
+  owner = "taejin0323"              # Your GitHub ID
+  repo = "blog-comments"               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID

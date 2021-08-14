@@ -111,11 +111,9 @@ footer:
   #       - title: GitHub
   #         link: https://gohugo.io/
   contents: 
-    align: left
+    align: center
     applySinglePageCss: false
     markdown:
-      |
-      ## Zzo docs
-      Copyright © 2020. All rights reserved.
+      Copyright © 2021. All rights reserved.
 ---
 
