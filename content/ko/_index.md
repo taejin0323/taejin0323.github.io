@@ -14,16 +14,19 @@ landing:
   title:
     - Welcome!
   text:
-    - Too qrious about too many things
+    - Too curious about too many things
   titleColor:
-  textColor:
+  textColor: teal
   spaceBetweenTitleText: 25
   buttons:
     - link: docs
-      text: LINK to STUDY
+      text: STUDY
       color: primary
     - link: blog
-      text: LINK to BLOG
+      text: BLOG
+      color: primary
+    - link: https://twisty-umbrella-891.notion.site/Positively-Passionate-Person-eae317f0afa64169ab924f2a49ae9ca8
+      text: ABOUT ME(Notion.so)
       color: default
   # backgroundImage: 
   #   src: images/landscape.jpg

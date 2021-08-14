@@ -1,9 +1,40 @@
----
-title: "Hey man!"
-description: "test post"
-date: 2021-01-28T00:34:51+09:00
-draft: false
-weight: -4
----
++++
+author = "TAEJIN"
+title = "Blog template"
+date = "2021-08-14"
+# description = "A brief description of Hugo Shortcodes"
+tags = [
+    "blog",
+    "template",
+]
+image = "images/landscape.jpg"
++++
+{{< featuredImage >}}
 
-*Markdown here*
+# h1
+- 무시됨
+
+## h2
+
+### h3
+
+#### h4
+
+- item1
+- item2
+- item3
+- item4
+
+#### h4
+
+- item1
+- item2
+- item3
+- item4
+
+#### h4
+
+- item1
+- item2
+- item3
+- item4

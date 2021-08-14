@@ -9,6 +9,7 @@ tags = [
 ]
 image = "images/mountain.jpg"
 +++
+{{< featuredImage >}}
 
 Lorem est tota propiore conpellat pectoribus de
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
