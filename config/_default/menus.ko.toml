@@ -1,13 +1,13 @@
 [[main]]
-  identifier = "docs"
-  name = "Docs"
-  url = "docs"
-  weight = 1
-
-[[main]]
   identifier = "updates"
   name = "Updates"
   url = "updates"
+  weight = 1
+
+[[main]]
+  identifier = "docs"
+  name = "Study"
+  url = "docs"
   weight = 2
 
 [[main]]

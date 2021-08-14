@@ -1,10 +1,10 @@
 baseURL = "http://taejin0323.github.io"
-title = "Hugo Zdoc Theme"
+title = "Too curious about too many things"
 theme = "zdoc"
 
 defaultContentLanguage = "ko"
-defaultContentLanguageInSubdir = false
-hasCJKLanguage = false
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = true
 
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000

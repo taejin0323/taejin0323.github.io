@@ -1,30 +1,121 @@
 ---
-title: ZDoc
-description: Hugo ZDoc theme landing page
-date: 2020-01-26T04:15:05+09:00
+title: Welcome page
+description: Landing page with Hugo, ZDoc theme 
+date: 2021-08-14T02:15:05+09:00
 draft: false
-updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
-landingImage: favicon/android-icon-192x192.png
-landingTitle:
-  - Hugo ZDoc theme
-landingText:
-  - Make a documentation with hugo zdoc theme!
-titleColor:
-textColor:
-spaceBetweenTitleText: 25
-buttons:
-  - link: docs/gettingstarted/quickstart
-    text: GET STARTED
-    color: primary
-  - link: https://github.com/zzossig/hugo-theme-zdoc
-    text: DOWNLOAD
-    color: default
-# shields:
-  # - link: https://github.com/zzossig/hugo-theme-zdoc
-  #   image: https://img.shields.io/github/forks/zzossig/hugo-theme-zdoc?label=Fork&style=social
-  #   alt: Hugo ZDoc theme github forks
-  # - link: https://github.com/zzossig/hugo-theme-zdoc
-  #   image: https://img.shields.io/github/stars/zzossig/hugo-theme-zdoc?label=Star&style=social
-  #   alt: Hugo ZDoc theme github stars
+
+
+# updatesBanner: "Banner - &nbsp; [Hugo ZDoc theme](https://github.com/zzossig/hugo-theme-zdoc) &nbsp; just arrived"
+
+#################################### LANDING ####################################
+landing:
+  height: 750
+  image: favicon/ms-icon-310x310.png
+  title:
+    - Welcome!
+  text:
+    - Too qrious about too many things
+  titleColor:
+  textColor:
+  spaceBetweenTitleText: 25
+  buttons:
+    - link: docs
+      text: LINK to STUDY
+      color: primary
+    - link: blog
+      text: LINK to BLOG
+      color: default
+  # backgroundImage: 
+  #   src: images/landscape.jpg
+  #   height: 600
+
+#################################### SECTION ####################################
+# sections:
+#   - bgcolor: teal
+#     type: card
+#     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+#     header: 
+#       title: Why Zdoc
+#       hlcolor: "#8bc34a"
+#       color: '#fff'
+#       fontSize: 32
+#       width: 220
+#     cards:
+#       - subtitle: Performance
+#         subtitlePosition: center
+#         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue."
+#         image: images/section/keyboard.png
+#         color: white
+#         button: 
+#           name: Naver
+#           link: https://naver.com
+#           size: large
+#           target: _blank
+#           color: 'white'
+#           bgcolor: '#283593'
+#       - subtitle: Reliability
+#         subtitlePosition: center
+#         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+#         image: images/section/processor.png
+#         color: white
+#         button: 
+#           name: Google
+#           link: https://google.com
+#           size: large
+#           target: _blank
+#           color: 'white'
+#           bgcolor: '#283593'
+#       - subtitle: Productivity
+#         subtitlePosition: center
+#         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+#         image: images/section/root-server.png
+#         color: white
+#         button: 
+#           name: Yahoo
+#           link: https://yahoo.com
+#           size: large
+#           target: _blank
+#           color: 'white'
+#           bgcolor: '#283593'
+#   - bgcolor: DarkSlateBlue
+#     type: normal
+#     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+#     header:
+#       title: Build it with Zdoc
+#       hlcolor: DarkKhaki
+#       color: "#fff"
+#       fontSize: 32
+#       width: 340
+#     body:
+#       subtitle: Extensible and customizable.
+#       subtitlePosition: left
+#       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
+#       color: white
+#       image: images/section/root-server.png
+#       imagePosition: left
+
+
+#################################### FOOTER ####################################
+footer:
+  # sections:
+  #   - title: General
+  #     links:
+  #       - title: Docs
+  #         link: https://gohugo.io/
+  #   - title: resources
+  #     links:
+  #       - title: GitHub
+  #         link: https://gohugo.io/
+  #   - title: Features
+  #     links:
+  #       - title: GitHub
+  #         link: https://gohugo.io/
+  contents: 
+    align: left
+    applySinglePageCss: false
+    markdown:
+      |
+      ## Zzo docs
+      Copyright © 2020. All rights reserved.
 ---
 

@@ -1,17 +1,19 @@
 logo = true
-logoText = "ZDoc"
+logoText = "Qrius"
 logoType = "short" # long, short
-description = "The ZDoc theme for Hugo example site."
+description = "Qrius, personal study blog"
 
 themeOptions = ["light", "dark"]
+
+wideViewAsDefault = false
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
 enableTocSwitch = true
-enableLandingBackground = false
+enableLandingBackground = true
 enableSearch = true
 enableSearchHighlight = true
-enableLangChange = true
+enableLangChange = false        # 언어 선택 비활성화
 enableDarkMode = true
 enableBreadcrumb = true
 enableBlogBreadcrumb = true
@@ -24,10 +26,10 @@ showPoweredBy = true
 
 tocLevels = ["h2", "h3", "h4"]
 paginateWindow = 1
-taxoPaginate = 13
+taxoPaginate = 5
 taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 
-github = "https://github.com/zzossig/hugo-theme-zdoc"
+github = "https://github.com/taejin0323/taejin0323.github.io"
 
 # comment
 enableComment = false
