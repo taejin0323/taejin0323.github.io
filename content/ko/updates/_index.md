@@ -1,8 +1,9 @@
 ---
 title: "Updates"
-description: "test post index"
-date: 2020-01-28T00:08:29+09:00
+description: "Blog updates"
+date: 2021-08-14T03:08:29+09:00
 draft: false
 ---
 
-Updates
+# Logs
+
