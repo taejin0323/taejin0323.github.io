@@ -9,6 +9,7 @@ wideViewAsDefault = false
 
 useFaviconGenerator = true # https://www.favicon-generator.org/
 
+enableWideBlogSwitch = true
 enableTocSwitch = true
 enableLandingBackground = true
 enableSearch = true             # 검색엔진 사용
@@ -17,7 +18,7 @@ enableLangChange = false        # 언어 선택 비활성화
 enableDarkMode = true           # 다크모드 사용
 enableBreadcrumb = true
 enableBlogBreadcrumb = true
-enableEditBtn = false
+enableEditBtn = false           # 편집 비활성화
 enableToc = true
 enableMenu = true
 enableNavbar = true

@@ -11,7 +11,13 @@
   weight = 2
 
 [[main]]
+  identifier = "web"
+  name = "Web"
+  url = "web"
+  weight = 3
+
+[[main]]
   identifier = "blog"
   name = "Blog"
   url = "blog"
-  weight = 3
+  weight = 4
